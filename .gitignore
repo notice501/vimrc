@@ -1,0 +1,8 @@
+.*.s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+vim/sessions/
+vim/temp_dirs/
+vim/sessions/default.vim
