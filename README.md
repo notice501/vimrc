@@ -2,7 +2,7 @@ vimrc
 =====
 #FooCoder's vimrc
 -------------
-#install
+#Installation
 
 ###make links 
 
