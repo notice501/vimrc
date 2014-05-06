@@ -4,11 +4,11 @@ vimrc
 -------------
 #Installation
 
-###make links 
+###just use the vimrc 
 
 	git clone git@github.com:notice501/vimrc.git
-	ln -s vimrc ~/.vim
-    ln -s ~/.vim/vimrc ~/.vimrc
+
+replace ~/.vimrc
     
 ###use vundle to manage plugins
 
